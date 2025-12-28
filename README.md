@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working  on DBMS<br>I'm pursuing BCA in AI/ML 1st Year<br>
+I'm currently studing in AI/ML 1st year
 
 
 ## 🌐 Socials:
