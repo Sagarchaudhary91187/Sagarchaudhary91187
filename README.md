@@ -1,114 +1,187 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sagar+Chaudhary;AI%2FML+Enthusiast+%7C+BCA+Student;Python+%7C+ML+%7C+Automation+%7C+Design;3x+Hackathon+Champion+%F0%9F%8F%86" alt="Typing SVG" />
+<!-- 🌈 ANIMATED GRADIENT BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FECA57,50:48DBFB,75:FF9FF3,100:54A0FF&height=220&section=header&text=Sagar%20Chaudhary&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=30&desc=AI/ML%20Enthusiast%20%7C%20BCA%20Student%20%7C%203x%20Hackathon%20Champion%20🏆&descSize=18&descAlignY=52&descColor=FFFFFF" />
+
+<!-- ⌨️ ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%E2%9C%A8+Building+AI+that+matters;%F0%9F%90%8D+Python+%7C+ML+%7C+Automation+%7C+Design;%F0%9F%8F%86+3x+Hackathon+Champion+%E2%80%94+Always+Shipping!" alt="Typing SVG" />
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sagarchaudhary91187&label=Profile%20Views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chaudhary-62782737a/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/SagarChaud53695)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sagar.__chaudhary._/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Sagar_ch_00/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://learnmoretech1.blogspot.com)
+<!-- 🏷️ PROFILE BADGES -->
+<a href="https://www.linkedin.com/in/sagar-chaudhary-62782737a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/SagarChaud53695"><img src="https://img.shields.io/badge/-𝕏-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.instagram.com/sagar.__chaudhary._/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/Sagar_ch_00/"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://learnmoretech1.blogspot.com"><img src="https://img.shields.io/badge/-Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+<a href="mailto:sagarchaydhary91187@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sagarchaudhary91187&label=🔥+Profile+Views&color=FF6B6B&style=for-the-badge" />
+&nbsp;
+<a href="https://github.com/Sagarchaudhary91187?tab=followers">
+  <img src="https://img.shields.io/github/followers/Sagarchaudhary91187?label=✨+Followers&style=for-the-badge&color=FECA57&labelColor=1a1b27" />
+</a>
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+<!-- ═══════════════════════════════════════════════════════ -->
 
-- 🎓 2nd Year **BCA (AI/ML)** student, building real projects while I learn
-- 🏆 **3× Hackathon Champion**
-- 💻 Comfortable across **Kali Linux, Arch, Ubuntu, Debian, Fedora, Windows & macOS**
-- 🐍 Deep into **Python** — Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Flask, FastAPI, Selenium
-- 🎨 Also a creative editor — **Adobe Premiere Pro, Photoshop, Illustrator, Lightroom, Final Cut Pro, Filmora**
-- 📊 Productive with **Excel, PowerPoint, Word**
-- ✍️ I write about tech on my [blog](https://learnmoretech1.blogspot.com)
-- ⚡ Currently working on multiple AI/ML + automation projects
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sagar-chaudhary-62782737a/)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> &nbsp;About Me
 
-### 🛠️ Tech Stack
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN6a2RmcTFmenF4dGV0NWQ4bzB3ZzN3eGo2ZjN6YjJlYWRqZGlpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-**Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🎓 **2nd Year BCA (AI/ML)** student — building real projects while I learn
 
-**AI / ML & Backend**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+🏆 **3× Hackathon Champion** — I ship fast and break things (then fix them)
 
-**Creative Tools**
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-000000?style=for-the-badge&logo=finalcutpro&logoColor=white)
+🐍 Deep into **Python** — Pandas, NumPy, TensorFlow, PyTorch, Flask, FastAPI, Selenium
 
-**OS & Tools**
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+💻 Runs on **Kali • Arch • Ubuntu • Debian • Fedora • Windows • macOS**
 
----
+🎨 Creative side: **Premiere Pro • Photoshop • Illustrator • Lightroom • Final Cut Pro**
 
-### 🏆 Achievements
+📊 Productive with **Excel • PowerPoint • Word**
 
-| Achievement | Detail |
-|---|---|
-| 🥇 Hackathon Champion | Winner — 3 hackathons |
-| 🎓 Education | BCA in Artificial Intelligence & Machine Learning (2nd Year) |
-| ✍️ Content | Author at [learnmoretech1.blogspot.com](https://learnmoretech1.blogspot.com) |
+✍️ Tech blogger at [learnmoretech1.blogspot.com](https://learnmoretech1.blogspot.com)
 
-> Add more rows here as you win/build things — dates, project names, hackathon names, certificates.
+⚡ Currently working on **AI/ML + Automation projects**
 
----
+📫 Let's chat → [LinkedIn](https://www.linkedin.com/in/sagar-chaudhary-62782737a/)
 
-### 📌 Featured Projects
+<br clear="both"/>
 
-<!--
-Replace the placeholders below with your real repo names/links.
-Tip: run this on each repo -> https://github.com/<username>/<repo>
--->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-| Project | Description | Tech |
-|---|---|---|
-| [Project Name 1](https://github.com/Sagarchaudhary91187/) | One-line description of what it does and why it matters | Python, TensorFlow |
-| [Project Name 2](https://github.com/Sagarchaudhary91187/) | One-line description | Flask, FastAPI |
-| [Project Name 3](https://github.com/Sagarchaudhary91187/) | One-line description | Selenium, Automation |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-### 📊 GitHub Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sagarchaudhary91187&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarchaudhary91187&layout=compact&theme=tokyonight&hide_border=true" />
+### 💻 Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarchaudhary91187&theme=tokyonight&hide_border=true" />
+### 🧠 AI / ML & Backend
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarchaudhary91187&theme=tokyo-night&hide_border=true" />
+### 🎨 Creative Suite
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Final_Cut_Pro-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+### 🖥️ Operating Systems
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════ -->
 
-### 🐍 Contribution Snake
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🎖️ | Achievement | Detail |
+|:---:|:---|:---|
+| 🥇 | **Hackathon Champion** | Winner — 3 hackathons |
+| 🎓 | **Education** | BCA in AI/ML — 2nd Year |
+| ✍️ | **Tech Blogger** | Author at [learnmoretech1.blogspot.com](https://learnmoretech1.blogspot.com) |
+| 💻 | **Open Source** | 162+ C programs published on GitHub |
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Sagarchaudhary91187/C-Programming">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarchaudhary91187&repo=C-Programming&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&icon_color=FECA57&text_color=c9d1d9" width="420" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|:---|:---|:---:|
+| [**C-Programming**](https://github.com/Sagarchaudhary91187/C-Programming) | Complete C roadmap — 162+ programs across 19 topics | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+
+</div>
+
+> 💡 *More projects coming soon — AI/ML, Automation & Web Apps!*
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- STATS ROW -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sagarchaudhary91187&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&icon_color=FECA57&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarchaudhary91187&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9&langs_count=8" />
+
+<br/><br/>
+
+<!-- STREAK -->
+<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=Sagarchaudhary91187&theme=radical&hide_border=true&border_radius=15&background=0d1117&ring=FF6B6B&fire=FECA57&currStreakLabel=FF6B6B&sideLabels=c9d1d9&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarchaudhary91187&theme=rogue&hide_border=true&radius=15&bg_color=0d1117&color=FF6B6B&line=FECA57&point=48DBFB&area=true&area_color=FF6B6B" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏅 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sagarchaudhary91187&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sagarchaudhary91187/Sagarchaudhary91187/output/github-contribution-grid-snake-dark.svg" />
@@ -119,17 +192,30 @@ To make the snake animation work, add this GitHub Action to your profile repo:
 https://github.com/Platane/snk — it auto-generates the SVG above on a schedule.
 -->
 
----
+<!-- ═══════════════════════════════════════════════════════ -->
 
-### 🤝 Let's Connect
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-chaudhary-62782737a/)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SagarChaud53695)
-[![Blog](https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://learnmoretech1.blogspot.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sagar.__chaudhary._/)
+<a href="https://www.linkedin.com/in/sagar-chaudhary-62782737a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://x.com/SagarChaud53695"><img src="https://img.shields.io/badge/𝕏-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://learnmoretech1.blogspot.com"><img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;
+<a href="https://www.instagram.com/sagar.__chaudhary._/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-**Open to internships, collaborations, and interesting AI/ML projects 🚀**
+<br/><br/>
+
+### 🚀 *Open to internships, collaborations, and interesting AI/ML projects!*
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 
 </div>
+
+<br/>
+
+<!-- 🌈 FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FECA57,50:48DBFB,75:FF9FF3,100:54A0FF&height=120&section=footer&animation=twinkling" />
