@@ -1,167 +1,187 @@
+<!-- HEADER BANNER -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6C63FF,100:00D9FF&height=200&text=SAGAR%20CHAUDHARY&fontSize=50&fontColor=FFFFFF&animation=fadeIn&stroke=6C63FF&strokeWidth=2&descSize=20&desc=AI/ML%20Engineer%20in%20the%20Making&descAlignY=72" width="100%" />
+</div>
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sagar%20Chaudhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Student%20•%20Developer%20•%20Problem%20Solver&descSize=18&descAlignY=52" />
+<!-- INTRO -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey, I'm Sagar — a curious mind from Lucknow, India
+</h3>
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hey+there!+I'm+Sagar+Chaudhary;%F0%9F%8E%93+1st+Year+AI%2FML+Student;%F0%9F%92%BB+Building+with+C%2C+Python+%26+JavaScript;%F0%9F%9A%80+Passionate+about+Machine+Learning" alt="Typing SVG" />
-</a>
+<p align="center">
+  <em>1st Year AI/ML Student  •  162+ C Programs Written  •  Always Building Something New</em>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sagarchaudhary91187&style=flat-square&color=6C63FF&labelColor=0d1117&label=VISITORS" />
+  &nbsp;
+  <a href="https://github.com/Sagarchaudhary91187?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sagarchaudhary91187?style=flat-square&color=6C63FF&labelColor=0d1117&label=FOLLOWERS" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sagarchaudhary91187?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOS-2+-6C63FF?style=flat-square&labelColor=0d1117" />
+  </a>
+</div>
 
 <br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=Sagarchaudhary91187&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/Sagarchaudhary91187?tab=followers">
-  <img src="https://img.shields.io/github/followers/Sagarchaudhary91187?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="Followers" />
-</a>
+<!-- ABOUT ME SECTION -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarchaudhary91187&layout=donut-vertical&theme=transparent&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" width="200" />
 
-</div>
+### 🎯 Quick Facts
 
----
+- 🎓 &nbsp; Studying **Artificial Intelligence & Machine Learning** — 1st Year
+- 🌍 &nbsp; Based in **Lucknow, Uttar Pradesh, India**
+- 🔭 &nbsp; Currently mastering **C, DSA & Python for ML**
+- 🧠 &nbsp; Exploring **NumPy, Pandas & Matplotlib**
+- ✍️ &nbsp; I write tech blogs at [**learnmoretech1.blogspot.com**](https://learnmoretech1.blogspot.com)
+- 💬 &nbsp; Ask me about **C Programming, Patterns & Problem Solving**
+- ⚡ &nbsp; Fun fact: I've coded **28 different star patterns** in C!
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Sagar Chaudhary
-location: Lucknow, Uttar Pradesh, India 🇮🇳
-education: 1st Year — AI/ML Engineering
-blog: learnmoretech1.blogspot.com
-
-currently_learning: ["Data Structures & Algorithms", "Machine Learning", "Python for AI"]
-interests: ["Artificial Intelligence", "Deep Learning", "Competitive Programming"]
-fun_fact: "I've written 162+ C programs and counting! 🚀"
-```
+<br clear="both"/>
 
 ---
 
-## ⚡ Tech Stack
+<!-- TECH ARSENAL -->
+<h2 align="center">🛡️ Tech Arsenal</h2>
 
-<div align="center">
-
-### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" alt="Languages" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases" />
-<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL" />
-
-### 📊 Data Science & ML
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-
-### 🎨 Design Tools
-<img src="https://skillicons.dev/icons?i=ps,ai&theme=dark" alt="Design" />
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="150">
+<h4>Languages</h4>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js&perline=2&theme=dark" />
+</td>
+<td align="center" width="150">
+<h4>AI / ML</h4>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Matplotlib-⬜-11557C?style=flat-square&labelColor=0d1117" />
+</td>
+<td align="center" width="150">
+<h4>Databases</h4>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</td>
+<td align="center" width="150">
+<h4>Design</h4>
+<img src="https://skillicons.dev/icons?i=ps,ai&perline=2&theme=dark" />
+</td>
+<td align="center" width="150">
+<h4>Tools</h4>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+<!-- FEATURED PROJECT -->
+<h2 align="center">🔥 Featured Project</h2>
 
 <div align="center">
 
 <a href="https://github.com/Sagarchaudhary91187/C-Programming">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarchaudhary91187&repo=C-Programming&theme=tokyonight&hide_border=true&border_radius=12" alt="C-Programming" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarchaudhary91187&repo=C-Programming&theme=transparent&hide_border=true&title_color=6C63FF&text_color=c9d1d9&icon_color=00D9FF&bg_color=0d1117&border_radius=12&description_lines_count=2" width="450" />
 </a>
 
-</div>
+<br/>
 
-| Project | Description | Tech | Programs |
-|:--------|:------------|:----:|:--------:|
-| [🚀 **C-Programming**](https://github.com/Sagarchaudhary91187/C-Programming) | Complete C roadmap — Basics to File Handling | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | 162+ |
+```
+📂  19 Topics  ·  📝  162+ Programs  ·  📊  4100+ Lines of Code
+```
 
----
+<details>
+<summary><b>🗂️ What's Inside? (click to expand)</b></summary>
+<br/>
 
-## 📊 GitHub Analytics
+| Module | Topic | Count |
+|:------:|-------|:-----:|
+| 📝 | Basics, Variables, I/O, ASCII | 14 |
+| 🔀 | If-Else, Ternary, Nested Conditions | 15 |
+| 🔁 | For Loops, AP/GP Series | 10 |
+| 🔄 | While & Do-While Loops | 3 |
+| ⚙️ | Operator Problems, Fibonacci, Factorial | 14 |
+| 🔷 | **28 Pattern Programs** — Stars, Pyramids, Diamonds | 28 |
+| 🧩 | Functions, Pascal's Triangle, Permutations | 8 |
+| 📌 | Pointers, Double Pointers, Call by Ref | 4 |
+| ♻️ | Recursion — Parameterized & Functional | 6 |
+| 📊 | 1D Arrays — Search, Reverse, Unique | 17 |
+| 📐 | 2D Arrays — Matrix Ops, Transpose | 10 |
+| 🔤 | Strings — Reverse, Copy, Functions | 7 |
+| 🏗️ | Structures, Unions, Typedef | 11 |
+| ⏱️ | Time Complexity & Big-O | 1 |
+| 📈 | Sorting — Bubble Sort, Two-Pointer | 2 |
+| 🔧 | Preprocessor, Macros, Header Files | 5 |
+| 💾 | Dynamic Memory — malloc, calloc, free | 1 |
+| 📁 | File Handling — Read, Write, Separate | 2 |
 
-<div align="center">
-
-<!-- STATS & STREAK SIDE BY SIDE -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sagarchaudhary91187&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Sagarchaudhary91187&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- LANGUAGES -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarchaudhary91187&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarchaudhary91187&theme=tokyo-night&hide_border=true&radius=12&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sagarchaudhary91187&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</details>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- GITHUB STATS -->
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sagarchaudhary91187&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&ring_color=6C63FF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Sagarchaudhary91187&theme=transparent&hide_border=true&background=0d1117&ring=6C63FF&fire=00D9FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarchaudhary91187&theme=react-dark&hide_border=true&bg_color=0d1117&color=6C63FF&line=00D9FF&point=FFFFFF&area=true&area_color=6C63FF" />
+</div>
+
+---
+
+<!-- TROPHIES -->
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sagarchaudhary91187&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+<!-- CONNECT -->
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sagar-chaudhary-62782737a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/sagar_ch.00"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="https://x.com/@SagarChaudhary53695"><img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://reddit.com/user/Sagar_ch_00"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;
+<a href="mailto:sagarchaydhary91187@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://learnmoretech1.blogspot.com"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<!-- QUOTE -->
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+</div>
+
+<br/>
+
+<!-- SNAKE -->
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sagarchaudhary91187/Sagarchaudhary91187/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagarchaudhary91187/Sagarchaudhary91187/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sagarchaudhary91187/Sagarchaudhary91187/output/github-snake-dark.svg" />
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/Sagarchaudhary91187/Sagarchaudhary91187/output/github-snake-dark.svg" />
 </picture>
-
 </div>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/sagar-chaudhary-62782737a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/sagar_ch.00" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://x.com/@SagarChaudhary53695" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://reddit.com/user/Sagar_ch_00" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-</a>
-<a href="mailto:sagarchaydhary91187@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://learnmoretech1.blogspot.com" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-</a>
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
-</div>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:00D9FF&height=100&section=footer" width="100%" />
