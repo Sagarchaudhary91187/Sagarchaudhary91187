@@ -121,76 +121,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📌 Featured Projects
+## 📌 Repositories & Projects
 
-<div align="center">
+<!-- REPO-LIST:START -->
 
-<a href="https://github.com/Sagarchaudhary91187/C-Programming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagarchaudhary91187&repo=C-Programming&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&icon_color=FECA57&text_color=c9d1d9" width="420" />
-</a>
+| 🚀 Repository | 📝 Description | 🛠️ Main Language | ⭐ Stars | 🔄 Last Updated |
+|:---|:---|:---:|:---:|:---:|
+| [**C-Programming**](https://github.com/Sagarchaudhary91187/C-Programming) | C programming practice - from basics to file handling | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) | 0 | 2026-07-17 |
 
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Tech |
-|:---|:---|:---:|
-| [**C-Programming**](https://github.com/Sagarchaudhary91187/C-Programming) | Complete C roadmap — 162+ programs across 19 topics | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-
-</div>
-
-> 💡 *More projects coming soon — AI/ML, Automation & Web Apps!*
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- STATS ROW -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sagarchaudhary91187&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&icon_color=FECA57&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarchaudhary91187&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9&langs_count=8" />
-
-<br/><br/>
-
-<!-- STREAK -->
-<img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=Sagarchaudhary91187&theme=radical&hide_border=true&border_radius=15&background=0d1117&ring=FF6B6B&fire=FECA57&currStreakLabel=FF6B6B&sideLabels=c9d1d9&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarchaudhary91187&theme=rogue&hide_border=true&radius=15&bg_color=0d1117&color=FF6B6B&line=FECA57&point=48DBFB&area=true&area_color=FF6B6B" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏅 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sagarchaudhary91187&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Sagarchaudhary91187/Sagarchaudhary91187/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<!--
-To make the snake animation work, add this GitHub Action to your profile repo:
-https://github.com/Platane/snk — it auto-generates the SVG above on a schedule.
--->
+<!-- REPO-LIST:END -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
