@@ -128,6 +128,7 @@
 | 🚀 Repository | 📝 Description | 🛠️ Main Language | ⭐ Stars | 🔄 Last Updated |
 |:---|:---|:---:|:---:|:---:|
 | [**C-Programming**](https://github.com/Sagarchaudhary91187/C-Programming) | C programming practice - from basics to file handling | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) | 0 | 2026-07-17 |
+| [**Library-Management-System**](https://github.com/Sagarchaudhary91187/Library-Management-System) | Console-based Library Management System in C++ for macOS/Linux | ![C++](https://img.shields.io/badge/-C%2B%2B-9C033A?style=flat-square&logo=cplusplus&logoColor=white) | 1 | 2026-07-19 |
 
 <!-- REPO-LIST:END -->
 
