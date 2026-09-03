@@ -132,7 +132,7 @@
 
 | [**ZEROoo-Offline-Ai**](https://github.com/Sagarchaudhary91187/ZEROoo-Offline-Ai) | A portable, privacy-focused AI assistant designed to bring offline intelligence wherever connectivity can't | ![Zeroo]([https://img.shields.io/badge/-C%2B%2B-9C033A](https://thumbs.dreamstime.com/b/artificial-intelligence-icon-ai-three-stars-logo-application-website-flat-vector-illustration-eps-371594668.jpg?w=768)?style=flat-square&logo=cplusplus&logoColor=white) | 3 | 2026-08-31 |
 
-| [**Cyber-Elephant-Runner**](https://github.com/Sagarchaudhary91187/Cyber-Elephant-Runner) |A cyberpunk endless runner featuring a hacker elephant, Matrix-style digital rain | ![C++](https://img.shields.io/badge/-C%2B%2B-9C033A?style=flat-square&logo=cplusplus&logoColor=white) | 1 | 2026-08-03 |
+| [**Cyber-Elephant-Runner**](https://github.com/Sagarchaudhary91187/Cyber-Elephant-Runner) | A cyberpunk endless runner featuring a hacker elephant, Matrix-style digital rain, cyber obstacles, powerups, skins, particle effects, and synthesized audio. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 0 | 2026-09-03 |
 
 <!-- REPO-LIST:END -->
 
