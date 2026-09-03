@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/sagar.__chaudhary._/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.reddit.com/user/Sagar_ch_00/"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 <a href="https://learnmoretech1.blogspot.com"><img src="https://img.shields.io/badge/-Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-<a href="mailto:sagarchaydhary91187@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sagarchaudhary91187@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
