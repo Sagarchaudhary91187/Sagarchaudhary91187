@@ -22,11 +22,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Sagarchaudhary91187&label=🔥+Profile+Views&color=FF6B6B&style=for-the-badge" />
 &nbsp;
-<a href="https://github.com/Sagarchaudhary91187?tab=followers">
-  <img src="https://img.shields.io/github/followers/Sagarchaudhary91187?label=✨+Followers&style=for-the-badge&color=FECA57&labelColor=1a1b27" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/github/stars/Sagarchaudhary91187?label=⭐+Total+Stars&style=for-the-badge&color=48DBFB&labelColor=1a1b27" />
 
 </div>
 
