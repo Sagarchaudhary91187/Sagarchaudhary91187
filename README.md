@@ -25,6 +25,8 @@
 <a href="https://github.com/Sagarchaudhary91187?tab=followers">
   <img src="https://img.shields.io/github/followers/Sagarchaudhary91187?label=✨+Followers&style=for-the-badge&color=FECA57&labelColor=1a1b27" />
 </a>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Sagarchaudhary91187?label=⭐+Total+Stars&style=for-the-badge&color=48DBFB&labelColor=1a1b27" />
 
 </div>
 
@@ -127,10 +129,10 @@
 
 | 🚀 Repository | 📝 Description | 🛠️ Main Language | ⭐ Stars | 🔄 Last Updated |
 |:---|:---|:---:|:---:|:---:|
-| [**Cyber-Elephant-Runner**](https://github.com/Sagarchaudhary91187/Cyber-Elephant-Runner) | A cyberpunk endless runner featuring a hacker elephant, Matrix-style digital rain, cyber obstacles, powerups, skins, particle effects, and synthesized audio. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 0 | 2026-09-03 |
-| [**ZEROoo-Offline-Ai**](https://github.com/Sagarchaudhary91187/ZEROoo-Offline-Ai) | A portable, privacy-focused AI assistant designed to bring offline intelligence wherever connectivity can't | ![AI / Python](https://img.shields.io/badge/-AI%20%2F%20Python-FFD43B?style=flat-square&logo=python&logoColor=306998) | 2 | 2026-08-31 |
-| [**Library-Management-System**](https://github.com/Sagarchaudhary91187/Library-Management-System) | Console-based Library Management System in C++ for macOS/Linux | ![C++](https://img.shields.io/badge/-C%2B%2B-9C033A?style=flat-square&logo=cplusplus&logoColor=white) | 2 | 2026-07-19 |
-| [**C-Programming**](https://github.com/Sagarchaudhary91187/C-Programming) | C programming practice - from basics to file handling | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) | 2 | 2026-07-17 |
+| [**Cyber-Elephant-Runner**](https://github.com/Sagarchaudhary91187/Cyber-Elephant-Runner) | A cyberpunk endless runner featuring a hacker elephant, Matrix-style digital rain, cyber obstacles, powerups, skins, particle effects, and synthesized audio. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![Stars](https://img.shields.io/github/stars/Sagarchaudhary91187/Cyber-Elephant-Runner?style=flat-square&label=%E2%AD%90&color=FECA57)](https://github.com/Sagarchaudhary91187/Cyber-Elephant-Runner/stargazers) | [![Last Commit](https://img.shields.io/github/last-commit/Sagarchaudhary91187/Cyber-Elephant-Runner?style=flat-square&label=&color=48DBFB)](https://github.com/Sagarchaudhary91187/Cyber-Elephant-Runner/commits/main) |
+| [**ZEROoo-Offline-Ai**](https://github.com/Sagarchaudhary91187/ZEROoo-Offline-Ai) | A portable, privacy-focused AI assistant designed to bring offline intelligence wherever connectivity can't | ![AI / Python](https://img.shields.io/badge/-AI%20%2F%20Python-FFD43B?style=flat-square&logo=python&logoColor=306998) | [![Stars](https://img.shields.io/github/stars/Sagarchaudhary91187/ZEROoo-Offline-Ai?style=flat-square&label=%E2%AD%90&color=FECA57)](https://github.com/Sagarchaudhary91187/ZEROoo-Offline-Ai/stargazers) | [![Last Commit](https://img.shields.io/github/last-commit/Sagarchaudhary91187/ZEROoo-Offline-Ai?style=flat-square&label=&color=48DBFB)](https://github.com/Sagarchaudhary91187/ZEROoo-Offline-Ai/commits/main) |
+| [**Library-Management-System**](https://github.com/Sagarchaudhary91187/Library-Management-System) | Console-based Library Management System in C++ for macOS/Linux | ![C++](https://img.shields.io/badge/-C%2B%2B-9C033A?style=flat-square&logo=cplusplus&logoColor=white) | [![Stars](https://img.shields.io/github/stars/Sagarchaudhary91187/Library-Management-System?style=flat-square&label=%E2%AD%90&color=FECA57)](https://github.com/Sagarchaudhary91187/Library-Management-System/stargazers) | [![Last Commit](https://img.shields.io/github/last-commit/Sagarchaudhary91187/Library-Management-System?style=flat-square&label=&color=48DBFB)](https://github.com/Sagarchaudhary91187/Library-Management-System/commits/main) |
+| [**C-Programming**](https://github.com/Sagarchaudhary91187/C-Programming) | C programming practice - from basics to file handling | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) | [![Stars](https://img.shields.io/github/stars/Sagarchaudhary91187/C-Programming?style=flat-square&label=%E2%AD%90&color=FECA57)](https://github.com/Sagarchaudhary91187/C-Programming/stargazers) | [![Last Commit](https://img.shields.io/github/last-commit/Sagarchaudhary91187/C-Programming?style=flat-square&label=&color=48DBFB)](https://github.com/Sagarchaudhary91187/C-Programming/commits/main) |
 
 <!-- REPO-LIST:END -->
 
